@@ -1,0 +1,11 @@
+C:\Users\shebby\source\repos\scheduleSystem\scheduleSystem\schedule.Domain\bin\Debug\net5.0\schedule.Domain.deps.json
+C:\Users\shebby\source\repos\scheduleSystem\scheduleSystem\schedule.Domain\bin\Debug\net5.0\schedule.Domain.dll
+C:\Users\shebby\source\repos\scheduleSystem\scheduleSystem\schedule.Domain\bin\Debug\net5.0\ref\schedule.Domain.dll
+C:\Users\shebby\source\repos\scheduleSystem\scheduleSystem\schedule.Domain\bin\Debug\net5.0\schedule.Domain.pdb
+C:\Users\shebby\source\repos\scheduleSystem\scheduleSystem\schedule.Domain\obj\Debug\net5.0\schedule.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shebby\source\repos\scheduleSystem\scheduleSystem\schedule.Domain\obj\Debug\net5.0\schedule.Domain.AssemblyInfoInputs.cache
+C:\Users\shebby\source\repos\scheduleSystem\scheduleSystem\schedule.Domain\obj\Debug\net5.0\schedule.Domain.AssemblyInfo.cs
+C:\Users\shebby\source\repos\scheduleSystem\scheduleSystem\schedule.Domain\obj\Debug\net5.0\schedule.Domain.csproj.CoreCompileInputs.cache
+C:\Users\shebby\source\repos\scheduleSystem\scheduleSystem\schedule.Domain\obj\Debug\net5.0\schedule.Domain.dll
+C:\Users\shebby\source\repos\scheduleSystem\scheduleSystem\schedule.Domain\obj\Debug\net5.0\ref\schedule.Domain.dll
+C:\Users\shebby\source\repos\scheduleSystem\scheduleSystem\schedule.Domain\obj\Debug\net5.0\schedule.Domain.pdb
